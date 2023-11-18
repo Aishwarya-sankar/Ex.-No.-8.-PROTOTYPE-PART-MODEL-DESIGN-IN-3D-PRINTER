@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/Aishwarya-sankar/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/121418444/386ee493-f2b5-4ffe-8d09-048fbe7bddf9)
+![image](https://github.com/Aishwarya-sankar/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/121418444/686c14fe-989f-444f-931e-fec59a8cf000)
 
 
 ### Name:Aishwarya S
